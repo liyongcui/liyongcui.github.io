@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Liyong's notes"
 title_separator          : "-"
 name                     : "Liyong Cui"
-description              : "Data Science/Biostatistics"
+description              : "Data Science"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -295,8 +295,8 @@ defaults:
       related: true
   #_pages
   - scope:
-    path: ""
-    type: pages
+      path: ""
+      type: pages
     values:
-     layout: single
-     author_profile: true
+      layout: single
+      author_profile: true
