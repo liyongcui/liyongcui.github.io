@@ -1,12 +1,7 @@
---
-title:"About"
-permalink:/about/
+---
+title: "About"
+permalink: /about/
 header:
- image:
---
-
-
-
-I'm a passionate analysis skills learner.
-
-etc, etc,....
+  image: "images/night.JPG"
+---
+I am a Biostatistics student.
