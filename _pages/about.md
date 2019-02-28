@@ -1,7 +1,7 @@
 ---
 title: "About"
-permalink: /about/
+permalink: /at/
 header:
   image: "/images/night.JPG"
 ---
-I am a Biostatistics student.
+I am a Biostatistics student. etc etc etc
