@@ -10,6 +10,8 @@ mathjax: "true"
 
 #1 header
 
+
+
 ## subtitle 1.1
 
 ### subsubtitle 1.1.1
@@ -30,3 +32,15 @@ python code block:
 ```
 here is some equations:
 $$z=x+y$$
+
+Here's an image:
+<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
+
+Here's another image using Kramdown:
+![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
+
+Here's some math:
+
+$$z=x+y$$
+
+You can also put it inline $$z=x+y$$
