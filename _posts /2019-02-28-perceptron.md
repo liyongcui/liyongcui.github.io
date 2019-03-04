@@ -7,32 +7,49 @@ excerpt: "machine learning, perceptron"
 mathjax: "true"
 ---
 
-#1 header
 
 
+Here's some basic text.
 
-## subtitle 1.1
+And here's some *italics*
 
-### subsubtitle 1.1.1
+Here's some **bold** text.
 
+What about a [link](https://github.com/dataoptimal)?
 
-here are some basic text.
-* first term
-+ second term
+Here's a bulleted list:
+* First item
++ Second item
+- Third item
 
+Here's a numbered list:
+1. First
+2. Second
+3. Third
 
-python code block:
+Python code block:
 ```python
- import numpy as np
+    import numpy as np
 
-
-  def test_function (x,y):
-    z=np.sum(x,y)
-    return z
+    def test_function(x, y):
+      z = np.sum(x,y)
+      return z
 ```
-here is some equations:
-$$z=x+y$$
 
+R code block:
+```r
+library(tidyverse)
+df <- read_csv("some_file.csv")
+head(df)
+```
+
+Here's some inline code `x+y`.
+
+Here's an image:
+<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
+
+Here's another image using Kramdown:
+![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
 
 Here's some math:
 
