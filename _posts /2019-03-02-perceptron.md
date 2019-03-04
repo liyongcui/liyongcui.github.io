@@ -1,8 +1,9 @@
 ---
-title：“machine learning: perceptron”
+title:  "Machine learning project: perceptron"
 date: 2019-03-02
 tags: [machine learning, perceptron]
 header:
+ image:"/images/hu.jpg"
 excerpt: "machine learning, perceptron"
 mathjax: "true"
 ---
