@@ -1,6 +1,6 @@
 ---
 title：“machine learning: perceptron”
-data: 2019-03-02
+date: 2019-03-02
 tags: [machine learning, perceptron]
 header:
 excerpt: "machine learning, perceptron"
