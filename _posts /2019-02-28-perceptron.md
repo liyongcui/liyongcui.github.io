@@ -3,7 +3,6 @@ title：“machine learning: perceptron”
 data: 2019-02-28
 tags: [machine learning, perceptron]
 header:
- image: "/images/hu.jpg"
 excerpt: "machine learning, perceptron"
 mathjax: "true"
 ---
