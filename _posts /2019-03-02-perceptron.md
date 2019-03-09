@@ -3,7 +3,7 @@ title:  "Machine Learning Project: perceptron"
 date: 2019-03-02
 tags: [machine learning, perceptron]
 header:
- image: "/images/homepage.jpg"
+  image: "/images/homepage.jpg"
 excerpt: "Machine Learning, Perceptron"
 mathjax: "true"
 ---
