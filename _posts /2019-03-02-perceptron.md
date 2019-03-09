@@ -1,7 +1,7 @@
 ---
 title:  "Machine Learning Project: perceptron"
 date: 2019-03-02
-tags: [machine learning, perceptron]
+tags: [machine learning, data science]
 header:
   image: "/images/homepage.JPG"
 excerpt: "Machine Learning, Perceptron"
