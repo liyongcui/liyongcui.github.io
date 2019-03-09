@@ -4,7 +4,7 @@ date: 2019-03-02
 tags: [machine learning, data science]
 header:
   image: "/images/homepage.JPG"
-excerpt: "Machine Learning, Perceptron"
+excerpt: "Machine Learning"
 mathjax: "true"
 ---
 
